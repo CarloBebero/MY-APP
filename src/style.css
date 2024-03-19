@@ -1,0 +1,42 @@
+body {
+     font-style: bold;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     padding: 2vw;
+     background-color: #0a0a0a;
+     color: rgb(233, 233, 233);
+     /* font-size: 4vw; */
+
+}
+
+.marquee {
+     width: 100%;
+     border: 13px solid red;
+     white-space: nowrap;
+     overflow: hidden;
+     position: relative;
+     font-size: 10vw;
+   }
+
+   .marquee span {
+     display: inline-block;
+     animation: marquee 20s linear infinite;
+   }
+
+   @keyframes marquee {
+     0% {
+       transform: translateX(100vw);
+     }
+     100% {
+       transform: translateX(-100%);
+     }
+   }
+
+.content {
+     width: 100vw;
+     height: 100vh;
+     position: fixed;
+}
+
+ul {
+     list-style: none;
+}
