@@ -31,7 +31,7 @@
          </div>
          <div class="hero-img">
           <div class="img-revealer"></div>
-          <img src="/src/images/list-pic.jpg" alt="" />
+          <img src="https://res.cloudinary.com/doz52pwrx/image/upload/v1711654083/list-pic.jpg" alt="" />
         </div>
          <div class="hero">
            <p>A2: Svelte ToDo App</p>
