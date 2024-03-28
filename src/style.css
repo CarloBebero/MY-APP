@@ -1,13 +1,17 @@
-body {
-     font-style: bold;
-     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-     padding: 2vw;
-     background-color: #0a0a0a;
-     color: rgb(233, 233, 233);
-     /* font-size: 4vw; */
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  font-family: "Arame";
+}
+/* 
 .marquee {
      width: 100%;
      border: 13px solid red;
@@ -39,4 +43,4 @@ body {
 
 ul {
      list-style: none;
-}
+} */
