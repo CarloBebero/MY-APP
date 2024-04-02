@@ -6,41 +6,7 @@
 
 html,
 body {
-  width: 100vw;
   height: 100vh;
   background: #000;
   font-family: "Arame";
 }
-/* 
-.marquee {
-     width: 100%;
-     border: 13px solid red;
-     white-space: nowrap;
-     overflow: hidden;
-     position: relative;
-     font-size: 10vw;
-   }
-
-   .marquee span {
-     display: inline-block;
-     animation: marquee 20s linear infinite;
-   }
-
-   @keyframes marquee {
-     0% {
-       transform: translateX(100vw);
-     }
-     100% {
-       transform: translateX(-100%);
-     }
-   }
-
-.content {
-     width: 100vw;
-     height: 100vh;
-     position: fixed;
-}
-
-ul {
-     list-style: none;
-} */

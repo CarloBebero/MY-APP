@@ -1,0 +1,13 @@
+{
+    "name": "Lizt",
+    "start_url": "/",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "Logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  

@@ -8,10 +8,9 @@
 
      <nav>
        <div class="nav-1">
-         <p class="logo">A2</p>
+         <p class="logo">A3</p>
          <p class="title">
-          ToDO<br />
-          APP
+          PWA
          </p>
        </div>
        <div class="nav-2">
@@ -302,6 +301,9 @@ nav > div {
      .content-wrapper .col {
           margin-bottom: 3px;
      }    
+     .checkbox-container {
+      display: block;
+     }
 }
 
 .content-wrapper .col {
